@@ -1,0 +1,13 @@
+Instruction: This project processes TREC standard format document collections.
+
+Readme: To run this project, open the HW1Main.java in src package and run it, then the TrecText and TrecWeb files can be processed and the results will be written into predefined files according to the Path class in Classes folder. What’s more, comments are attached to some important variables and methods in order to make code more readable.
+
+Environment: JAVA JDK 1.8 and I used IntelliJ IDEA to develop my project.
+
+The time this project cost to run:
+* Total running time: around 2.3 min;
+* Text corpus running time: about 1.3 min;
+* Web corpus running time: about 1.0 min.
+
+
+
